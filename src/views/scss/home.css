@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+* {
+  font-family: "Varela Round", sans-serif;
+}
+
+body {
+  background-color: aqua;
+  margin: 0;
+}
+
+#titulo {
+  padding-top: 250px;
+  padding-left: 150px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  margin-top: 0;
+  color: #666666;
+}
+
+#botao {
+  background-color: #C22A1F;
+  color: #ffffff;
+  border-radius: 8px;
+  width: 200px;
+  height: 40px;
+  border: none;
+}
+
+.Formulario {
+  background-image: url("./../../style/images/img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 475px;
+}
+
+.Dicas_panel {
+  height: 300px;
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.texto {
+  height: 100%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #C7C7C7;
+}
+
+#form h1, h2 {
+  padding-left: 150px;
+}
+
+#barra {
+  height: 100px;
+  width: 100%;
+}
+
+.Formulario1 {
+  height: 350px;
+  width: 1871px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 0px;
+  background-image: url("./../../style/images/img1.jpg");
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
+.Dicas_panel {
+  height: 300px;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.texto {
+  height: 100%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #C7C7C7;
+}
+
+#form h1, h2 {
+  padding-left: 150px;
+}
+
+.Formulario2 {
+  height: 350px;
+  width: 1871px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 0px;
+  background-image: url("./../../style/images/img2.jpg");
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
+.Dicas_panel {
+  height: 300px;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.texto {
+  height: 100%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #C7C7C7;
+}
+
+#form h1, h2 {
+  padding-left: 150px;
+}/*# sourceMappingURL=home.css.map */
